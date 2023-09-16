@@ -1,1 +1,11 @@
+{
+    "name": "Good Luck Token",
+    "symbol": "LUCK",
+    "decimals": 0,
+    "description": "Your Digital Lucky Charm.",
+    "icon": "https://github.com/LUCKToken/luck-token-metadata/raw/main/metadata/GLT%20Icon.png",
+    "tokenURI": "https://github.com/LUCKToken/luck-token-metadata/raw/main/metadata/token-metadata.json"
+}
+
+
 
